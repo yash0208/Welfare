@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="colorPrimary">#1ea5ff</color>
+    <color name="colorPrimaryDark">#6e5ff6</color>
+    <color name="colorAccent">#6e5ff6</color>
+
+    <color name="white" >#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="bgcolor">#f2f3f7</color>
+    <color name="icon_tint_color">#6a6c6c</color>
+
+    <color name="lightGray">#F2F2F2</color>
+
+    <color name="disabledBtnBg">#999999</color>
+    <color name="high1">#FB0A00</color>
+
+    <color name="gradient_start_color">#4c84ff</color>
+    <color name="gradient_end_color">#18a3fe</color>
+
+
+    <!-- colors for tab and screent text -->
+    <color name="colorEndGrad">#167A1C</color>
+    <color name="colorStartGrad">#54B159</color>
+    <!-- Screens background color-->
+    <color name="bg_screen1">#f64c73</color>
+    <color name="bg_screen2">#20d2bb</color>
+    <color name="bg_screen3">#3395ff</color>
+
+    <color name="home">#2196F3</color>
+    <color name="activity">#673AB7</color>
+    <color name="favorites">#E91E63</color>
+    <color name="settings">#4CAF50</color>
+    <color name="bg_screen4">#c873f4</color>
+    <color name="bg_screen5">#f64c73</color>
+    <color name="bg_screen6">#20d2bb</color>
+    <color name="bg_screen7">#3395ff</color>
+    <color name="bg_screen8">#c873f4</color>
+    <color name="bg_screen9">#20d2bb</color>
+    <color name="bg_screen10">#3395ff</color>
+    <color name="bg_screen11">#c873f4</color>
+    <color name="colorEndGradBG">#E2BAC8</color>
+    <color name="colorStartGradBG">#D8F8DA</color>
+
+
+
+
+    <color name="colorTrans">#73E479</color>
+
+    <color name="textColor">#212121</color>
+    <color name="textColorHead">#777777</color>
+
+
+    <color name="colorBackground">#F1F4F7</color>
+    <color name="colorPomegranate">#C0392B</color>
+
+    <color name="colorIcon">#C0392B</color>
+    <color name="colorItemName">#2E4B59</color>
+    <color name="colorItemDetailBackground">#90A6B4</color>
+
+    <color name="orderAccepted">#BEEC85</color>
+    <color name="orderRejected">#F398BB</color>
+
+
+    <!-- colors for button style -->
+
+    <color name="selected_dot">#2D9CDB</color>
+    <color name="idle_dot">#662D9CDB</color>
+    <color name="ob_header">#4A4A4A</color>
+    <color name="ob_desc">#4A4A4A</color>
+</resources>
